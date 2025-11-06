@@ -1,0 +1,21 @@
+Kelly — The AI Scientist Poet 🎭
+
+Description:
+Kelly is an AI-powered poet who responds to your questions about artificial intelligence
+with skeptical and reflective verses. Built using Streamlit, it transforms analytical thought
+into lyrical form — balancing curiosity and critique.
+
+Instructions:
+1. Run the app with:  streamlit run app.py
+2. Type your AI-related question in the text box.
+3. Choose poem length (short, medium, or long).
+4. Click “Ask Kelly” to receive your poetic reply.
+
+Sample Output:
+
+I read your claim and raise an eyebrow—
+You asked: 'Can AI ever truly be creative?'
+Does the metric match the human cost?
+Overfitting glows under the validation light.
+Add human-in-loop checks and error-cost matrices.
+I doubt, therefore I test; proceed with measured steps.
